@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6p0056/T/v1
+canonical_location: https://kanripo.org/bkk/KR6p0056/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土生無生論
+  identifiers:
+    krp: KR6p0056
+    cbeta: T47n1975
+    cbeta_old_id: T47n1975
+    authorityid: CA0001846
+    json_key: T1975
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1975.xml
+    old_id: T47n1975
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0056_000-T.yaml, hash: 'sha256:6ffd64fe9941a2eb41d4b0cfdc26e4c42da47c230793ae1783bccd13d882cb5f'}
+  - {seq: 1, filename: KR6p0056_001-T.yaml, hash: 'sha256:d2b3d84ddc2fb78954ac012a54a53f57dc59320e1e32c8fa5ef416c8ffe10686'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0056_000-T.markers.yaml, hash: 'sha256:719f8e53a68fa8bbc0737539c52540ddf24e64ba2fd83a3a61b192934d880679'}
+  - {seq: 1, role: markers, filename: assets/KR6p0056_001-T.markers.yaml, hash: 'sha256:c207d6ce0a560b1461a09e6b5f28c4cdbfdab1590aada91d4c9bcc772f337711'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3916
+  label: 淨土生無生論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-1
+    span:
+    - body
+    - 187
+    - 187
+  label: 1 一真法界門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-2
+    span:
+    - body
+    - 1288
+    - 1288
+  label: 2 身土緣起門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-3
+    span:
+    - body
+    - 1638
+    - 1638
+  label: 3 心土相即門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-4
+    span:
+    - body
+    - 1920
+    - 1920
+  label: 4 生佛不二門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-5
+    span:
+    - body
+    - 2215
+    - 2215
+  label: 5 法界為念門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-6
+    span:
+    - body
+    - 2402
+    - 2402
+  label: 6 境觀相吞門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-7
+    span:
+    - body
+    - 2700
+    - 2700
+  label: 7 三觀法爾門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-8
+    span:
+    - body
+    - 3070
+    - 3070
+  label: 8 感應任運門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-9
+    span:
+    - body
+    - 3370
+    - 3370
+  label: 9 彼此恒一門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0056_T_001-mulu-10
+    span:
+    - body
+    - 3667
+    - 3667
+  label: 10 現未互在門
+  type: mulu
+  level: 1
+hash: sha256:e926e90a6adac551fe904346c96ff65bb3efaa6168e5dc889d31353dd3c13229

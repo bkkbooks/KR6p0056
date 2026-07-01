@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0056/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土生無生論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1975.xml
+    old_id: T47n1975
+hash: sha256:6ffd64fe9941a2eb41d4b0cfdc26e4c42da47c230793ae1783bccd13d882cb5f
